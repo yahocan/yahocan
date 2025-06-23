@@ -24,7 +24,7 @@
 
 ## 🏆 Projects
 
-### 🔹 [Advanced OCR & PII Masking Platform](https://github.com/yahocan/ocrpii) (2024 - Present) **[MVP Stage]**
+### 🔹 [Advanced OCR & PII Masking Platform](https://github.com/yahocan/ocrpii) (2025 - Present) **[MVP Stage]**
 
 - **Developed a comprehensive multi-modal AI system** for **document processing and privacy protection**, combining **OCR, NLP, and LLM technologies**.
 - **Implemented enterprise-grade PII detection pipeline** using **Azure Cognitive Services**, **GLiNER NER models**, and **custom LLM validation**.
