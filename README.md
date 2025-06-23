@@ -28,7 +28,6 @@
 
 - **Developed a comprehensive multi-modal AI system** for **document processing and privacy protection**, combining **OCR, NLP, and LLM technologies**.
 - **Implemented enterprise-grade PII detection pipeline** using **Azure Cognitive Services**, **GLiNER NER models**, and **custom LLM validation**.
-- **Current Status:** MVP (Minimum Viable Product) with core functionality operational and ready for testing and iteration.
 - **Features:** Multi-algorithm PII detection (Azure Text Analytics + GLiNER + Regex), LLM-based false positive validation, PDF redaction with bounding box preservation, containerized microservices architecture.
 - **Technologies Used:** Python, Azure AI Services, GLiNER, PyMuPDF, spaCy, Transformers, Flask, Docker, +15 more skills
 
