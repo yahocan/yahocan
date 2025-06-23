@@ -38,7 +38,7 @@
 - **Directed project efforts as a co-founder** in a startup environment, fostering creativity and disciplined problem-solving.
 - **Technologies Used:** Retrieval-Augmented Generation (RAG), Python, +6 more skills
 
-### 🔹 [Teknofest Healthcare AI Competition 2024](https://github.com/your-repo-link](https://github.com/Kizil-AI/Teknofest2024) (Feb 2024 - Aug 2024)
+### 🔹 [Teknofest Healthcare AI Competition 2024](https://github.com/Kizil-AI/Teknofest2024) (Feb 2024 - Aug 2024)
 
 - Collaborated in a **multidisciplinary team** to develop **AI models** using **image processing and NLP techniques**.
 - Overcame early-stage learning challenges to help our team rank **in the top 150 out of 550+ teams**.
