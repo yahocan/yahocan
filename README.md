@@ -37,6 +37,14 @@
 - **Directed project efforts as a co-founder** in a startup environment, fostering creativity and disciplined problem-solving.
 - **Technologies Used:** Retrieval-Augmented Generation (RAG), Python, +6 more skills
 
+### 🔹 [Customer Churn Prediction & Deep Analysis Project (Hacettepe AI Datathon 2024)](https://github.com/yahocan/hacettepeaidatathon2024) (Feb 2024 - Aug 2024)
+
+- **Built an end-to-end ML pipeline to predict customer churn and reveal key churn drivers from diverse datasets.
+- **Merged and cleaned multi-source data, managed outliers and missing values, and performed detailed EDA for actionable insights.
+- **Trained and tuned models (Logistic Regression, Random Forest, XGBoost, MLP) with advanced techniques like SMOTE and hyperparameter optimization.
+- **Used SHAP to interpret results, identifying factors like support resolution times and revenue impact, and provided strategies to reduce churn.
+- **Technologies Used:** Retrieval-Augmented Generation (RAG), Python, +6 more skills
+
 ### 🔹 [Teknofest Healthcare AI Competition 2024](https://github.com/Kizil-AI/Teknofest2024) (Feb 2024 - Aug 2024)
 
 - Collaborated in a **multidisciplinary team** to develop **AI models** using **image processing and NLP techniques**.
@@ -45,7 +53,7 @@
 
 ---
 
-## 💡 Skills & Technologies
+## 💡 Skills & Technologies ### will be updated
 
 ### **Core AI & Development Skills**
 
