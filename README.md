@@ -4,7 +4,7 @@
 
 ## Links
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=social&logo=linkedin)](https://linkedin.com/in/yağız-can-akay-740255308/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=social&logo=linkedin)](https://linkedin.com/in/yagizcanakay)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=social&logo=gmail)](mailto:yagizakay11@gmail.com)
 
 ---
