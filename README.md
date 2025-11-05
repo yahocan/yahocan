@@ -1,4 +1,4 @@
-# Yağız Can Akay 🚀 | [Portfolio](https://yahocan.github.io/)
+# Yağız Can Akay
 
 **Aspiring AI Entrepreneur • AI Engineering Student at TOBB University • Professional Guitarist**
 
