@@ -2,10 +2,7 @@
 
 **AI Engineer & Entrepreneur**
 
-I focus on building scalable **Generative AI** solutions and autonomous systems that bridge the gap between research and real-world impact. Passionate about experimenting with new architectures, solving complex engineering problems, and creating products that matter.
-
-🎸 **Beyond Code:** Professional Guitarist, MMA Enthusiast, and Bodybuilder.
-
+I focus on building scalable solutions and autonomous systems that bridge the gap between research and real-world impact. Passionate about experimenting with new architectures, solving complex engineering problems, and creating products that matter.
 ---
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yagizcanakay)
